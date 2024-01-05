@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm a passionate **Solutions Architect** and **Clo
 Here, you'll find a variety of solutions and projects I've worked on. I believe in open collaboration and I'm excited to share my work with the community. Feel free to explore, use, and enhance these repositories. Let's innovate and build something amazing together!
 
 Happy coding! 😊
+-----------------------------------------------------------------------------------------------------------
+<img src="https://myreadme.vercel.app/api/embed/passadis?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&theme=buefy) [![Konstantinos GitHub stats](https://github-readme-stats.vercel.app/api?username=passadis&theme=buefy)](https://github.com/passadis/github-readme-stats)
 
 
 <!--
