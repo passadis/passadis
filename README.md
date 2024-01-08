@@ -1,5 +1,6 @@
 
-![technology-infrastructure](https://github.com/passadis/passadis/assets/53148138/34991a01-22df-4f89-837c-c443685a60f2)
+![tech123](https://github.com/passadis/passadis/assets/53148138/3fc163d9-aed9-48c6-b996-2b7a6b1f2708)
+
 
 
 # Hello, I'm Konstantinos! 👋
