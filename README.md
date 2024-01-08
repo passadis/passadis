@@ -1,5 +1,6 @@
 
-![tech123](https://github.com/passadis/passadis/assets/53148138/3fc163d9-aed9-48c6-b996-2b7a6b1f2708)
+![techg](https://github.com/passadis/passadis/assets/53148138/2745ab95-0068-47f0-81bf-0eb6a1fc406b)
+
 
 
 
