@@ -12,7 +12,7 @@ Here, you'll find a variety of solutions and projects I've worked on. I believe 
 
 Happy coding! 😊
 -----------------------------------------------------------------------------------------------------------
-<img src="https://myreadme.vercel.app/api/embed/passadis?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/PASSADIS?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&theme=buefy) [![Konstantinos GitHub stats](https://github-readme-stats.vercel.app/api?username=passadis&theme=buefy)](https://github.com/passadis/github-readme-stats)
 
