@@ -15,6 +15,7 @@ Happy coding! 😊
 <img src="https://myreadme.vercel.app/api/embed/PASSADIS?panels=toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&theme=react)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&layout=donut&theme=react)](https://github.com/passadis/github-readme-stats)
 [![Konstantinos GitHub stats](https://github-readme-stats.vercel.app/api?username=passadis&theme=react)](https://github.com/passadis/github-readme-stats)
 
 
