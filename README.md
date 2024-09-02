@@ -12,11 +12,11 @@ Here, you'll find a variety of solutions and projects I've worked on. I believe 
 
 Happy coding! 😊
 -----------------------------------------------------------------------------------------------------------
-<img src="https://myreadme.vercel.app/api/embed/PASSADIS?panels=toplanguages,commitgraph" alt="reimaginedreadme" /> 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&size_weight=0&count_weight=1.0)](https://github.com/passadis/github-readme-stats) -->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&show_icons=true&theme=react)-->
 [![Konstantinos GitHub stats](https://github-readme-stats.vercel.app/api?username=passadis&show_icons=true&theme=react)](https://github.com/passadis/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=passadis&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=300&hide_total_contributions=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&layout=donut&theme=react)](https://github.com/passadis/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=passadis&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=300&hide_total_contributions=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&size_weight=0&count_weight=1.0&layout=donut&theme=react)](https://github.com/passadis/github-readme-stats)
 
 <!--
 **passadis/passadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
