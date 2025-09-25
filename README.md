@@ -16,7 +16,7 @@ Happy coding! 😊
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&show_icons=true&theme=react)-->
 [![Konstantinos GitHub stats](https://github-readme-stats.vercel.app/api?username=passadis&show_icons=true&theme=react)](https://github.com/passadis/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats-2fsr2ae3a.vercel.app?user=passadis)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passadis&layout=donut)
 
 <!--
 **passadis/passadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
